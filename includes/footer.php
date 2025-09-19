@@ -91,6 +91,7 @@
             <p style="color: rgba(255,255,255,0.6); font-size: 0.875rem;">
                 © 2024 Complexe Scolaire Nouveaux Horizon. Tous droits réservés.
             </p>
+            <p>Elaborer par <a href="https://saminova.netlify.app" target="_blank" style="color: #d4af37; font-weight: bold; text-decoration: underline;">Saminova</a></p>
             <div class="footer-links">
                 <a href="#" style="color: rgba(255,255,255,0.6); font-size: 0.875rem;">Politique de Confidentialité</a>
                 <a href="#" style="color: rgba(255,255,255,0.6); font-size: 0.875rem;">Conditions d'Utilisation</a>

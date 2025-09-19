@@ -38,13 +38,7 @@
         <div class="hero-overlay"></div>
         
         <div class="hero-content fade-in">
-            <!-- Badge -->
-            <div class="hero-badge">
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="#d4af37" stroke="#d4af37" stroke-width="2">
-                    <polygon points="12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26"></polygon>
-                </svg>
-                École d'Excellence depuis 2004
-            </div>
+
 
             <!-- Main Heading -->
             <h1 class="hero-title">
@@ -96,10 +90,7 @@
             </div>
         </div>
 
-        <!-- Scroll Indicator -->
-        <div class="scroll-indicator">
-            <div class="scroll-dot"></div>
-        </div>
+       
     </section>
 
     <!-- Program Highlights -->
